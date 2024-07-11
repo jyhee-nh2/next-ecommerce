@@ -2,6 +2,7 @@
   "name": "next-ecommerce",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jyhee-nh2.github.io/react-ecommerce",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
